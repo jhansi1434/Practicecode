@@ -1,0 +1,19 @@
+{
+    "products":[
+        {
+            "sku":"item000",
+            "name":"mfkd",
+            "price":1000
+        },
+        {
+            "sku":"item011",
+            "name":"mfkd",
+            "price":2000
+        },
+        {
+            "sku":"item012",
+            "name":"mfkd",
+            "price":3000
+        }
+    ]
+}
